@@ -48,7 +48,7 @@ const Navbar = () => {
                     onClick={(e) => { e.preventDefault(); scrollToSection("home"); }}
                     className="text-xl font-bold text-gray-900 dark:text-white"
                 >
-                    Portfolio.
+                    Sai.
                 </a>
 
                 {/* Desktop Menu */}
